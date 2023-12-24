@@ -1,4 +1,3 @@
-// Page.js
 'use client';
 import React, { useState, useEffect, useRef } from 'react';
 import PokemonCard from './cards/PokemonCard';

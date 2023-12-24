@@ -58,12 +58,10 @@
 }
 
 
-/* Add this to your CSS or use inline styles in React components */
 
-/* Add this to your CSS or use inline styles in React components */
 
 .modal {
-  display: block; /* Change 'none' to 'block' to make it visible */
+  display: block;
   position: fixed;
   z-index: 1;
   left: 0;
@@ -80,7 +78,7 @@
   padding: 20px;
   border: 1px solid #888;
   border-radius: 8px;
-  max-width: 800px; /* Adjust the width as needed */
+  max-width: 800px; 
 }
 
 .modal-header {
@@ -98,11 +96,11 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  border-radius: 8px; /* Add border-radius for a rounded image */
+  border-radius: 8px; 
 }
 
 .modal-stats {
-  margin-left: 20px; /* Adjust the margin as needed */
+  margin-left: 20px; 
 }
 
-/* Add more styles based on your design preferences */
+

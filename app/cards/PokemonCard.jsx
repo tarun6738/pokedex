@@ -1,8 +1,8 @@
-// PokemonCard.jsx
+
 import React from 'react';
 
 const PokemonCard = ({ name, id, imageUrl, types }) => {
-  // Capitalize the first letter of the Pokemon name
+  
   const capitalizedPokemonName = name.charAt(0).toUpperCase() + name.slice(1);
 
   return (
